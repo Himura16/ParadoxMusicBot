@@ -25,7 +25,7 @@ client.queue = new Map();
  */
 client.on("ready", () => {
 	console.log(`${client.user.username} ready!`);
-	client.user.setActivity(`with everyone's KolbICE`);
+	client.user.setActivity(`Paradox Music`);
 });
 client.on("warn", info => console.log(info));
 client.on("error", console.error);
