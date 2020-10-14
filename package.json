@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "simple-youtube-api": "^5.1.1",
     "ytdl-core": "^2.0.0",
-    "ytdl-core-discord": "amishshah/ytdl-core-discord"
+    "ytdl-core-discord": "^1.2.3"
   },
   "scripts": {
     "start": "node index.js"
